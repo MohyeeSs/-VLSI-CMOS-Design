@@ -61,11 +61,7 @@ The following screenshots show the simulated input and output waveforms and the 
 **Boolean Function:**
 
 \[
-<<<<<<< HEAD
 F=~{ABC+D}
-=======
-F=ّ{ABC+D}
->>>>>>> c257330 (Add design screenshots to README)
 \]
 
 ### Design Tasks
